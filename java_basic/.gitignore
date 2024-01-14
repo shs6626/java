@@ -28,6 +28,11 @@ bin/
 ### Mac OS ###
 .DS_Store
 
-### etc ###
-java_basic.iml
+#IntelliJ project files
 .idea
+.idea/*.xml
+*.iml
+out
+gen
+build
+rebel.xml

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5a429c29-1664-4f26-b71a-fb9acdeaf693" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/java_basic/src/HelloJava.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_basic/src/variable/Var1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-    </list>
+    <list default="true" id="5a429c29-1664-4f26-b71a-fb9acdeaf693" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,6 +58,7 @@
       <workItem from="1705198697638" duration="36000" />
       <workItem from="1705220266103" duration="38000" />
       <workItem from="1705220308436" duration="77000" />
+      <workItem from="1705221005671" duration="37000" />
     </task>
     <servers />
   </component>
